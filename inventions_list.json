@@ -1,0 +1,1332 @@
+[
+  {
+    "invention": "Voltaic Pile",
+    "year": "1800",
+    "inventor": "Alessandro Volta",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Arc Lamp",
+    "year": "1802",
+    "inventor": "Humphry Davy",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Isolation of morphine",
+    "year": "1804",
+    "inventor": "Friedrich Sertuner",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Jacquard Loom",
+    "year": "1804",
+    "inventor": "Joseph-Marie Jacquard",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "High-pressure steam locomotive",
+    "year": "1804",
+    "inventor": "Richard Trevithick",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "General anaesthetic",
+    "year": "1804",
+    "inventor": "Hanaoka Seishu",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Internal combustion engine \"Pyreolophore\"",
+    "year": "1807",
+    "inventor": "Nic\u00e9phore & Claude Ni\u00e9pce",
+    "category": "Mechanical",
+    "category2": "Chemical"
+  },
+  {
+    "invention": "Commercial steamboat",
+    "year": "1807",
+    "inventor": "Robert Fulton",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Canning process",
+    "year": "1810",
+    "inventor": "Nicolas Appert",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Wrist Watch",
+    "year": "1810",
+    "inventor": "Abraham-Louis Breguet",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Cylinder steam printing press",
+    "year": "1811",
+    "inventor": "Friedrich Koenig",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Safety lamp",
+    "year": "1812",
+    "inventor": "William Reid Clanny",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Planing machine",
+    "year": "1814",
+    "inventor": "James Fox",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Stethoscope",
+    "year": "1816",
+    "inventor": "Rene Laennec",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Electric telegraph",
+    "year": "1816",
+    "inventor": "Francis Ronalds",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Stirling hot air engine",
+    "year": "1816",
+    "inventor": "Robert Stirling",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Dandy horse",
+    "year": "1817",
+    "inventor": "Karl von Drais",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Tunneling shield",
+    "year": "1818",
+    "inventor": "Marc Brunel",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Pattern-tracing lathe",
+    "year": "1822",
+    "inventor": "Thomas Blanchard",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Heliography",
+    "year": "1822",
+    "inventor": "Nic\u00e9phore Ni\u00e9pce",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Difference engine",
+    "year": "1822",
+    "inventor": "Charles Babbage",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "First lighter (Doberiner's Lamp)",
+    "year": "1823",
+    "inventor": "Johann Dobereiner",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Bolt-action rifle",
+    "year": "1824",
+    "inventor": "Johan Nikolaus von Dreyse",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Electromagnet",
+    "year": "1824",
+    "inventor": "William Sturgeon",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Friction match",
+    "year": "1826",
+    "inventor": "John Walker",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Gas Stove",
+    "year": "1826",
+    "inventor": "James Sharp",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Hot-blast iron smelting",
+    "year": "1828",
+    "inventor": "James Neilson",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Reaping machine",
+    "year": "1828",
+    "inventor": "Patrick Bell",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Commutated electrocmagnetic motor",
+    "year": "1828",
+    "inventor": "Anyos Jedlik",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Braile Tactile alphabet",
+    "year": "1829",
+    "inventor": "Louis Braille",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Compound air compressor",
+    "year": "1829",
+    "inventor": "William Mann",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Corrugated galvanized iron",
+    "year": "1829",
+    "inventor": "Henry Robinson Palmer",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Lawn mower",
+    "year": "1830",
+    "inventor": "Edwin Budding",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Electromagnetic induction",
+    "year": "1831",
+    "inventor": "Michael Faraday",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "First practical rotating electric motor",
+    "year": "1834",
+    "inventor": "Mortiz von Jacobi",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Electromechanical relay",
+    "year": "1835",
+    "inventor": "Joseph Henry",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Morse Code",
+    "year": "1837",
+    "inventor": "Samuel Morse",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Electrotyping",
+    "year": "1838",
+    "inventor": "Mortiz von Jacobi",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Steam Shovel",
+    "year": "1839",
+    "inventor": "William Otis",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Steam Hammer",
+    "year": "1839",
+    "inventor": "James Nasmyth",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Photovoltaic effect",
+    "year": "1839",
+    "inventor": "Edmond Becquerel",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Vulcanized Rubber",
+    "year": "1839",
+    "inventor": "Charles Goodyear",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Daguerrotype",
+    "year": "1839",
+    "inventor": "Louis Daguerre",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "\"Blueprint\" (cyanotype) process",
+    "year": "1840",
+    "inventor": "John Herschel",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Printing telegraph",
+    "year": "1841",
+    "inventor": "Alexander Bain",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Fuel Cell",
+    "year": "1842",
+    "inventor": "William Robert Grove",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Super-phosphate fertilizer",
+    "year": "1842",
+    "inventor": "John Bennet Lawes",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Wood-pulp paper",
+    "year": "1844",
+    "inventor": "FG Keller and Charles Fenerty",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Hypodermic needle",
+    "year": "1844",
+    "inventor": "Francis Rynd",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Modern high-strength Portland cement",
+    "year": "1845",
+    "inventor": "Isaac Charles Johnson",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Tunnel-boring machine",
+    "year": "1846",
+    "inventor": "Henri-Joseph Maus",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Nitroglycerin",
+    "year": "1847",
+    "inventor": "Ascanio Sobrero",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Pneumatic drill",
+    "year": "1848",
+    "inventor": "Jonathan Couch",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Pin-tumbler cylinder Lock",
+    "year": "1848",
+    "inventor": "Linus Yale Sr.",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Metallic-cartridge repeating rifle",
+    "year": "1849",
+    "inventor": "Walter Hunt",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Francis water turbine",
+    "year": "1849",
+    "inventor": "James Francis",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Safety pin",
+    "year": "1849",
+    "inventor": "Walter Hunt",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Hydraulic accumulator",
+    "year": "1850",
+    "inventor": "William Armstrong",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Public flush toilet",
+    "year": "1851",
+    "inventor": "George Jennings",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Chemical-vapor deposition",
+    "year": "1852",
+    "inventor": "Robert Bunsen",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Safety-brake elevator",
+    "year": "1852",
+    "inventor": "Elisha Otis",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Powered dirigible flight",
+    "year": "1852",
+    "inventor": "Henri Giffard",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Reinforced concrete",
+    "year": "1853",
+    "inventor": "Francois Coignet",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Practical three-color photography",
+    "year": "1855",
+    "inventor": "James Clerk Maxwell",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Bessemer Steel Process",
+    "year": "1855",
+    "inventor": "Henry Bessemer",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Parkesine/celluoid",
+    "year": "1856",
+    "inventor": "Alexander Parkes",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Vapour-compression ice machine",
+    "year": "1856",
+    "inventor": "James Harrison",
+    "category": "Mechanical",
+    "category2": "Chemical"
+  },
+  {
+    "invention": "Mauveine synthetic dye",
+    "year": "1856",
+    "inventor": "William Henry Perkin",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Geissler tube",
+    "year": "1857",
+    "inventor": "Heinrich Geissler",
+    "category": "Electrical",
+    "category2": "Chemical"
+  },
+  {
+    "invention": "Phonautograph",
+    "year": "1857",
+    "inventor": "\u00c9douard-L\u00e9on Scott de Martinville",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Lead-acid rechargeable battery",
+    "year": "1859",
+    "inventor": "Gaston Plante",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Carbon fiber",
+    "year": "1860",
+    "inventor": "Joseph Swan",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Pasteurization",
+    "year": "1864",
+    "inventor": "Louis Pasteur",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Siemens-martin open-hearth steel process",
+    "year": "1865",
+    "inventor": "Carl Siemens and Pierre Martin",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Dynamite",
+    "year": "1867",
+    "inventor": "Alfred Nobel",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Barbed wire",
+    "year": "1867",
+    "inventor": "Lucien Smith",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "PVC",
+    "year": "1872",
+    "inventor": "Eugen Baumann",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Early \"stainless\" steel",
+    "year": "1872",
+    "inventor": "JET Woods and J Clark",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Rotary cement kiln",
+    "year": "1873",
+    "inventor": "Frederick Ransome",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Crookes radiometer",
+    "year": "1873",
+    "inventor": "William Crookes",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Gramme dynamo",
+    "year": "1873",
+    "inventor": "Zenobe Gramme",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Metal detector",
+    "year": "1874",
+    "inventor": "Gustave Trouve",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Electric tram",
+    "year": "1875",
+    "inventor": "Fyodor Pirotsky",
+    "category": "Mechanical",
+    "category2": "Electrical"
+  },
+  {
+    "invention": "Four-stroke engine",
+    "year": "1876",
+    "inventor": "Nikolaus Otto",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Telephone",
+    "year": "1876",
+    "inventor": "Alexander Graham Bell",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Phonograph",
+    "year": "1877",
+    "inventor": "Thomas Edison",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Closed-circuit rebreather",
+    "year": "1878",
+    "inventor": "Henry Fleuss",
+    "category": "Mechanical",
+    "category2": "Chemical"
+  },
+  {
+    "invention": "Pelton Wheel",
+    "year": "1878",
+    "inventor": "Lester Allan Pelton",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Incandescent light bulb",
+    "year": "1879",
+    "inventor": "Thomas Edison",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Carbon arc welding",
+    "year": "1881",
+    "inventor": "Nikolay Benardo and Stanislaw Olszewski",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Recoil-operated machine gun",
+    "year": "1884",
+    "inventor": "Hiram Maxim",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Poudre B Smokeless powder",
+    "year": "1884",
+    "inventor": "Paul Vieille",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Steam turbine",
+    "year": "1884",
+    "inventor": "Charles Parsons",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Closed core transformer",
+    "year": "1884",
+    "inventor": "Zipernowsky-Bl\u00e1thy-D\u00e9ri, \u201cZBD\u201d",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Safety bicycle",
+    "year": "1885",
+    "inventor": "John Kemp Starley",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Zinc-carbon dry cell",
+    "year": "1886",
+    "inventor": "Carl gassner",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Hall-Heroult process",
+    "year": "1886",
+    "inventor": "Charles Hall and Paul Heroult",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Petrol automobile",
+    "year": "1886",
+    "inventor": "Karl Benz",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Bayer alumina process",
+    "year": "1887",
+    "inventor": "Carl Bayer",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Wind-generated electricity",
+    "year": "1887",
+    "inventor": "James Blyth",
+    "category": "Mechanical",
+    "category2": "Electrical"
+  },
+  {
+    "invention": "Gold cyanidation",
+    "year": "1887",
+    "inventor": "MacArthur\u2013Forrest brothers & John S. MacArthur",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Ballpoint pen",
+    "year": "1888",
+    "inventor": "John Loud",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Kinetoscope motion picture viewer",
+    "year": "1888",
+    "inventor": "Thomas Edison and WKL Dickson",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Experimental proof of radio waves",
+    "year": "1888",
+    "inventor": "Heinrich Hertz",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Practical pneumatic tyre",
+    "year": "1888",
+    "inventor": "John Dunlop",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Chlorofluorocarbon refrigerant",
+    "year": "1890",
+    "inventor": "Frederic Swarts",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Pre-cut folding cardboard box",
+    "year": "1890",
+    "inventor": "Robert Gair",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Zipper",
+    "year": "1891",
+    "inventor": "Whitcomb Judson",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Cinematograph",
+    "year": "1892",
+    "inventor": "Leon Bouly",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Electric oven",
+    "year": "1892",
+    "inventor": "Thomas Ahearn",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Compression \"diesel\" engine",
+    "year": "1893",
+    "inventor": "Rudolph Diesel",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Rubber surgical gloves",
+    "year": "1893",
+    "inventor": "William Halstead",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Wireless telegraphy",
+    "year": "1895",
+    "inventor": "Guglielmo Marconi",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "X-ray",
+    "year": "1895",
+    "inventor": "Wilhelm R\u00f6ntgen",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Cloth surgical mask",
+    "year": "1897",
+    "inventor": "Jan Mikulicz-Radecki & Paul Berger",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Polyethylene",
+    "year": "1898",
+    "inventor": "Hans von pechmann",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Nickel cadmium rechargeable battery",
+    "year": "1899",
+    "inventor": "Waldemar Jungner",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Zeppelin LZ-1 Rigid airship",
+    "year": "1900",
+    "inventor": "Theodor Kober and Count Zeppelin",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Powered suction vacuum cleaner",
+    "year": "1901",
+    "inventor": "Hubert Booth and David Kenney",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "First self-sustaining gas turbine",
+    "year": "1903",
+    "inventor": "\u00c6gidius Elling",
+    "category": "Mechanical",
+    "category2": "Chemical"
+  },
+  {
+    "invention": "Laminated safety glass",
+    "year": "1903",
+    "inventor": "\u00c9douard B\u00e9n\u00e9dictus",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "First sustained, controlled powered flight",
+    "year": "1903",
+    "inventor": "Orville and Wilbur Wright",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Fleming valve",
+    "year": "1904",
+    "inventor": "John ambrose Fleming",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "First free helicopter flight",
+    "year": "1907",
+    "inventor": "Paul Cornu",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Bakelite",
+    "year": "1907",
+    "inventor": "Leo Baekeland",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Ramjet concept",
+    "year": "1907",
+    "inventor": "Rene Lorin",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Cellophane",
+    "year": "1908",
+    "inventor": "Jacques Brandenberger",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Haber-Bosch process",
+    "year": "1909",
+    "inventor": "Fritz Haber",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "First static-image television transmission",
+    "year": "1909",
+    "inventor": "Georges Rignoux & A. Fournier",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Cloud chamber",
+    "year": "1911",
+    "inventor": "CTR Wilson",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Electric slot cars",
+    "year": "1912",
+    "inventor": "Lionel Corporation",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "First articulated electric trams",
+    "year": "1912",
+    "inventor": "Boston Elevated Railway",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Bergius high-pressure coal hydrogenation process",
+    "year": "1913",
+    "inventor": "Friedrich Bergius",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Kaplan axial-flow adjustable blade turbine",
+    "year": "1913",
+    "inventor": "Viktor Kaplan",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Stainless Steel",
+    "year": "1915",
+    "inventor": "Harry Brearley",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "First practical battle tanks",
+    "year": "1915",
+    "inventor": "Walter Wilson & William Tritton; Eug\u00e8ne Brilli\u00e9",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Czocharlski crystal pulling",
+    "year": "1916",
+    "inventor": "Jan Czochralski",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Crystal oscillator",
+    "year": "1917",
+    "inventor": "Alexander Nicholson",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Fischer-Tropsch coal-to-liquid process",
+    "year": "1925",
+    "inventor": "Franz Fischer & Hans Tropsch",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Yagi-Uda directional antenna",
+    "year": "1926",
+    "inventor": "Shintar\u014d Uda with Hidetsugu Yagi",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Liquid fueled rocket launch",
+    "year": "1926",
+    "inventor": "Robert Goddard",
+    "category": "Mechanical",
+    "category2": "Chemical"
+  },
+  {
+    "invention": "Three-point hitch",
+    "year": "1926",
+    "inventor": "Harry Ferguson",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "First public live-image television demo",
+    "year": "1926",
+    "inventor": "John Logie baird",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Quartz Clock",
+    "year": "1927",
+    "inventor": "Warren Marrison & J. W. Horton",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Discovery of penicillin's antibiotic action",
+    "year": "1928",
+    "inventor": "Alexander Fleming",
+    "category": "Medical",
+    "category2": ""
+  },
+  {
+    "invention": "Turbojet",
+    "year": "1928",
+    "inventor": "Frank Whittle",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "First practical all-electric television",
+    "year": "1928",
+    "inventor": "Philo Farnsworth",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Recirculating ball screw",
+    "year": "1929",
+    "inventor": "Rudolph G. Boehm",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Phase-contrast microscopy",
+    "year": "1930",
+    "inventor": "Frits Zernike",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Electron microscope",
+    "year": "1931",
+    "inventor": "Ernst Ruska, with Max Knoll",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "FM Radio",
+    "year": "1933",
+    "inventor": "Edwin Armstrong",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Lightweight folding wheelchair",
+    "year": "1933",
+    "inventor": "Harry C. Jennings Sr. & Herbert Everest",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Nylon synthetic fiber",
+    "year": "1935",
+    "inventor": "Wallace Carothers",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Programmable computer",
+    "year": "1938",
+    "inventor": "Konrad Zuse",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Nuclear fission",
+    "year": "1938",
+    "inventor": "Otto Hahn, Fritz Strassmann; Lise Meitner & Otto Frisch",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Defibrilator",
+    "year": "1939",
+    "inventor": "Naum Gurvich",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Plutonium isolation",
+    "year": "1940",
+    "inventor": "Glenn T. Seaborg, Arthur Wahl & Joseph Kennedy",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Cavity Magnetron",
+    "year": "1940",
+    "inventor": "John Randall & Harry Boot",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "PET Fiber",
+    "year": "1941",
+    "inventor": "John R. Whinfield & James T. Dickson",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "V-2 (A-4) long-range ballistic missile",
+    "year": "1942",
+    "inventor": "Wernher von Braun with the Peenem\u00fcnde Army Research Center",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Influenza vaccine",
+    "year": "1944",
+    "inventor": "Thomas Francis Jr. & Jonas Salk",
+    "category": "",
+    "category2": ""
+  },
+  {
+    "invention": "Atomic bomb",
+    "year": "1945",
+    "inventor": "Manhattan Project team",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Microwave oven",
+    "year": "1945",
+    "inventor": "Percy Spencer",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Radiocarbon dating",
+    "year": "1946",
+    "inventor": "Willard Libby",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Ejector seat",
+    "year": "1946",
+    "inventor": "James Marti",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Holography",
+    "year": "1947",
+    "inventor": "Dennis Gabor",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Hydraulic fracturing",
+    "year": "1947",
+    "inventor": "Floyd Farris & J. B. Clark, Stanolind",
+    "category": "",
+    "category2": ""
+  },
+  {
+    "invention": "Transistor",
+    "year": "1947",
+    "inventor": "John Bardeen & Walter Brattain; theory by William Shockley",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Atomic clock",
+    "year": "1948",
+    "inventor": "Harold Lyons, U.S. National Bureau of Standards",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Basic oxygen steelmaking",
+    "year": "1948",
+    "inventor": "Robert Durrer",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "\"Bertie the Brain\" video game",
+    "year": "1950",
+    "inventor": "Josef Kates",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Tokamak fusion reactor concept",
+    "year": "1950",
+    "inventor": "Igor Tamm and Andrei Sakharov",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Float glass process",
+    "year": "1952",
+    "inventor": "Alastair Pilkington",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Thermonuclear weapon",
+    "year": "1952",
+    "inventor": "Manhattan Project team",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Helical scan video tape recorder",
+    "year": "1953",
+    "inventor": "Norikazu Sawazaki",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Silicon solar PV cell",
+    "year": "1954",
+    "inventor": "Calvin Fuller, Daryl Chapin, Gerald Pearson",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Hovercraft",
+    "year": "1955",
+    "inventor": "Christopher Cockerell",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Shipping container",
+    "year": "1955",
+    "inventor": "Malcom McLean",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Hard-disk drive",
+    "year": "1956",
+    "inventor": "IBM RAMAC team",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Logic theorist AI program",
+    "year": "1956",
+    "inventor": "Allen Newell, Herbert Simon, Cliff Shaw",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Laser/optical amplifier",
+    "year": "1957",
+    "inventor": "Gordon Gould; Charles Townes & Arthur Schawlow",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "IBM 610 Single-use computer",
+    "year": "1957",
+    "inventor": "",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Sputnik artificial satellite",
+    "year": "1957",
+    "inventor": "USSR",
+    "category": "Other",
+    "category2": ""
+  },
+  {
+    "invention": "Integrated circuit",
+    "year": "1958",
+    "inventor": "Jack Kilby and Robert Noyce",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "MOSFET Transistor",
+    "year": "1959",
+    "inventor": "Mohamed Atalla & Dawon Kahng",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "First working laser",
+    "year": "1960",
+    "inventor": "Theodore Maiman",
+    "category": "Electronic",
+    "category2": ""
+  },
+  {
+    "invention": "Electronic cigarette",
+    "year": "1963",
+    "inventor": "Herbert Gilbert",
+    "category": "Electrical",
+    "category2": ""
+  },
+  {
+    "invention": "Shinkansen high-speed rail",
+    "year": "1964",
+    "inventor": "JNR",
+    "category": "Mechanical",
+    "category2": ""
+  },
+  {
+    "invention": "Kevlar",
+    "year": "1965",
+    "inventor": "Stephanie Kwolek",
+    "category": "Chemical",
+    "category2": ""
+  },
+  {
+    "invention": "Packet-switched networks",
+    "year": "1969",
+    "inventor": "NPL and Arpanet",
+    "category": "Electronic",
+    "category2": ""
+  }
+]
